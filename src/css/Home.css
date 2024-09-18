@@ -1,0 +1,11 @@
+.container-home{
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    background-image: url("https://www.zoologic.com.ar/zl/wp-content/uploads/2017/08/66.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}

@@ -1,0 +1,21 @@
+.container-house{
+    margin: 25px;
+    width:100vw;
+    height:100vh; 
+}
+
+.mb-60{
+    margin-bottom: 60px;
+}
+
+.search{
+    max-width: 20%;
+}
+
+.expandible{
+
+    text-align: left;
+    margin: '0';
+    padding: '10';
+    background-color:#D5F0D6;
+}
